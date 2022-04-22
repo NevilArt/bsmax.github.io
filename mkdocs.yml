@@ -1,0 +1,24 @@
+site_name: BsMax Blender Addon
+
+nav:
+	- Home: index.md
+	- 'Getting Started':
+		- Introduction : 'index.md'
+		- Setup: 'setup.md'
+	- Documentation:
+		- Modes Cycling: 'modes-cycling.md'
+		- Selection: 'selection.md'
+		- Transform: 'transform.md'
+		- Tools: 'tools.md'
+		- Pie Menus: 'pie-menus.md'
+		- Toggles: 'toggles.md'
+		- Uv Tools: 'uv-tools.md'
+		- Preferences: 'preferences.md'
+	- Releases: 
+		- Changelog : 'changelog.md'
+
+theme:
+		name: bsmaxdocs
+		locate: en
+		analytics: {gtag: 'G-274394082'}
+		highlightjs: true
